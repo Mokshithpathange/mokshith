@@ -1,0 +1,16 @@
+1. Intialization
+	-git init
+2. configaration
+	-git config user.name <user-name>
+	-git config user.email <user-email>
+3. Adding
+	-git add <file-name>
+	-git add .
+4. committing
+	-git commit -m "commit msg"
+5. establishing the connection
+	-git remote add origin URL
+6. pushing the content
+	-git push origin master
+7. pulling the content
+	-git pull origin master	
