@@ -1,0 +1,19 @@
+Workflow of Git (7 Steps)
+
+1. Create Repository
+2. Clone Repository
+3. Create/Modify Files
+4. git add
+5. git commit
+6. git push
+7. git pull
+
+Commands:
+
+git init
+git clone <url>
+git status
+git add .
+git commit -m "message"
+git push origin main
+git pull origin main
