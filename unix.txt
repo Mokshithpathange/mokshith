@@ -1,0 +1,5 @@
+1. whoami
+2. sudo su <user-name>
+3. sudo add user <user-name>
+4. chmod permisssion <file-name>/<folder-name>
+5. cat /etc/passwd 
