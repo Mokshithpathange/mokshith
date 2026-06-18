@@ -1,0 +1,13 @@
+The 3 entties:
+1. owner/user(u)
+2. group(g)
+3. other user(o)
+
+The 3 permissions to grank file:
+1. read(r)(4)
+2. write(w)(2) 
+3. execute(x)(1)
+
+ls -l - to check the permissions
+chmod permission <file-name>/<folder-name>
+
