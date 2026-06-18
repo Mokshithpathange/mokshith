@@ -1,5 +1,21 @@
+
 1. whoami
 2. sudo su <user-name>
 3. sudo add user <user-name>
 4. chmod permisssion <file-name>/<folder-name>
 5. cat /etc/passwd 
+
+User Management Commands
+
+whoami
+id
+users
+who
+sudo adduser username
+sudo passwd username
+sudo usermod -aG group username
+sudo deluser username
+sudo userdel username
+groups
+sudo su
+
