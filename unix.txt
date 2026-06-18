@@ -1,0 +1,13 @@
+User Management Commands
+
+whoami
+id
+users
+who
+sudo adduser username
+sudo passwd username
+sudo usermod -aG group username
+sudo deluser username
+sudo userdel username
+groups
+sudo su
